@@ -14,7 +14,7 @@
 <p align="center">
   ElevateX is an innovative platform designed to transform the e-commerce landscape by merging the tactile and immersive elements of offline shopping with the convenience of online retail. 
   Leveraging cutting-edge technologies like <b>Augmented Reality (AR)</b>, <b>Artificial Intelligence (AI)</b>, and <b>Machine Learning (ML)</b>, ElevateX offers users a <b>3D immersive shopping experience</b> where they can interact with virtual stores, try on products, and engage with friends in real time. Shoppers can explore virtual malls, use AR-powered virtual fitting rooms, and enjoy entertainment zones with live events. 
-  ElevateX enhances personalization with AI-driven shopping assistants and provides a social experience through integrated voice and text chat features. Vendors benefit from tools like 2D to 3D product conversions and real-time analytics, while users can make purchases with multiple payment options, including crypto-based payments.
+  ElevateX enhances personalization with AI-driven shopping assistants and provides a social experience through integrated voice and text chat features. Vendors benefit from tools like 2D to 3D product conversions and real-time analytics, while users can make purchases with multiple payment options.
   </br>
   With <b>ElevateX Studio</b>, retailers can easily create and deploy their virtual shops, enabling a new era of online shopping that captures the essence of in-store engagement.
 </p>
