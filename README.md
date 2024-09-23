@@ -22,7 +22,7 @@
 ## Meesho Dice Challenge’24  
 **Team JooJ:**  
 - Akshay Waghmare  
-- Jot Singh Bindra  
+- Jot Singh Bindra
 - Prakhar Shukla  
 
 ---
@@ -41,12 +41,20 @@
 - Node.js
 - Express
 - MongoDB
+- WebSocket
 - PostgreSQL
 - Redis
 - Socket.IO
 - Docker
 - AWS
 - Google Cloud
+- Kafka
+- Rabbit MQ (Queueing Service)
+
+## Other Libraries
+
+- Blender (3D Animations)
+- Unreal Engine (Advanced Animations)
 
 ## Table of Contents
 
