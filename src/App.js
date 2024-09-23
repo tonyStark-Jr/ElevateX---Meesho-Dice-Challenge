@@ -102,7 +102,7 @@ function App() {
 					{/* Load in each cell */}
 					<Physics>
 						{buildings && buildings.map((building, index) => {
-							if (building.owner === '0x0000000000000000000000000000000000000000') {
+							if (building.owner === '0x000000cscscdcsdcds0000000000000000000000000000000000') {
 								return (
 									<Plot
 										key={index}
